@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        p,
+        h1,
+        h2,
+        form
+        {
+            font-family: arial, sans-serif;
+        }
+    </style>
+
+    <head>
+        <title>Forms Basics</title>
+    </head>
+
+    <body>
+        <h1>Forms Basics</h1>
+        <h2>Simple Text Input</h2>
+        <form>
+            First Name: <input type="text" name="firstname"><br>
+            Last Name: <input type="text" name="lastname"><br>
+        </form>
+
+        <h2>Radio Button Input</h2>
+        <form>
+            <input type="radio" name="gender" value="male" checked>Male<br>
+            <input type="radio" name="gender" value="female">Female<br>
+            <input type="radio" name="gender" value="other">Other<br>
+        </form>
+
+        <h2>Submit button</h2>
+        <form action="/action_page.php" targer="_blank">
+        <!--form results opens in new tab-->
+            First name: <input type="text" name="firstname" value="Mickey"><br>
+            Last name: <input type="text" name="lastname" value="Mouse"><br><br>
+            <input type="submit" value="Submit">
+        </form>
+
+        <h2>The method Attribute</h2>
+        <p>This form will be submitted using the POST method:</p>
+
+        <form action="/action_page.php" target="_blank" method="POST">
+            First name: <input type="text" name="firstname" value="Mickey"> <br>
+            Last name: <input type="text" name="lastname" value="Mouse"><br><br>
+            <input type="submit" value="Submit">
+        </form>
+
+    </body>
+
+</html>
