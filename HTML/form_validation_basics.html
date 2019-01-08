@@ -4,12 +4,41 @@
         h1
         {
             font-family: arial, sans-serif;
+            color: white;
+            background-color: orangered;
+            position: relative;
+            text-align: center;
         }
         form
         {
             font-family: arial, sans-serif;
             margin: 0 auto;
             width: 710px;
+        }
+        input:invalid {
+            border: 2px solid rgb(255, 51, 0);
+            background-image: url(https://style.ons.gov.uk/wp-content/themes/ons-style/static/img/cross.svg);
+            background-size: 20px;
+            background-repeat: no-repeat;
+            background-position: 300px 5px;
+        }
+
+        input:valid {
+            border: 2px solid rgb(56, 209, 56);
+            background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/check.svg);
+            background-size: 20px;
+            background-repeat: no-repeat;
+            background-position: 300px 5px;
+        }
+        input[type = "submit"]{
+            background-image: none;
+            border: 2px;
+            background: rgb(255, 68, 0);
+            color: white;
+            font-size: 18px;
+            width : 120px;
+            margin: 10 auto;
+            padding: 4px 15px;
         }
         input, textarea, select, button {
             width : 330px;
@@ -18,46 +47,35 @@
             margin: 8px 0;
             box-sizing: border-box;
         }
-        legend{
-            font-size: 22px;
-        }
         input{
             font-size: 16px;
         }
         fieldset
         {
+            text-align: center;
+            margin: auto;
             width: 50%;
         }
-        input[required], select[required]{
-            background-image: url('star.png');
-            background-repeat: no-repeat;
-            background-position: right center;
-        }
-        input[type = "submit"]{
-            font-size: 18px;
-            width : 120px;
-            margin: 0 auto;
-            padding: 13px 17px;
-        }
+        
     </style>
 
     <head>
         <title>Forms Validation Basics</title>
     </head>
-
     <body>
+        <h1>HTML and CSS Form Validation</h1>
         <form action="/action_page.php" method="POST" autocomplete="on">
             <fieldset>
-                <legend>HTML and CSS Form Validation</legend>
                 <input type="text" name="firstname" placeholder="Username" pattern=".{,20}" title="Must be below 20 characters" required><br>
                 <input type="Password" name="pw" placeholder="Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" 
                 title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required><br>
                 <input type="email" name="email" placeholder="john@doe.com" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required><br>
                 <input type="tel" name="phone" placeholder="123456789" pattern ="\d{10}" maxlength = "10" required><br>
-                <input type="text" name="webadd" pattern=".+\..+" placeholder="abc.com" title="Must be in something.com format"><br>
+                <input type="text" name="webadd" pattern=".+\..+" placeholder="abc.com" title="Must be in something.com format" required><br>
                 <input type="submit" value="Submit">
             </fieldset>
         </form>
     </body>
 
 </html>
+
