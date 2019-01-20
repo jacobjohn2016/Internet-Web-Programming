@@ -96,12 +96,12 @@
                     required><br>
                     <label>E-mail </label> <input type="email" name="email" placeholder="john@doe.com" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
                         required><br>
-                    <label>Gender </label> <input type="text" list="genders" name="gender" required/>
-                    <datalist id="genders">
-                    <option value="Male">Male</option>
-                    <option value="Female">Female</option>
-                    <option value="Unspecified">Unspecified</option>
-                    </datalist><br>
+                    <label>Gender </label> 
+                    <select name = "gender">
+                        <option value = "male">Male</option>
+                        <option value = "female">Female</option>
+                        <option value = "others">Others</option>
+                    </select>
                     <label>Date of Birth </label><input type="date" name="bday" required><br>
                     <label>Course Name </label><input type="text" name="cname" pattern="/^[A-Za-z]+$/{,50}" placeholder="Operating Systems" required><br>
                     <label>Course Code </label><input type="text" name="ccode" pattern="[a-zA-Z]{3}[1-9]{1}[0-9]{3}" placeholder="CSE1002" title="Most be in the format CSE1002" required><br>
