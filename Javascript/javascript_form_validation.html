@@ -114,9 +114,56 @@
         background-color: #34CACA;
     }
 </style>
+<script>
+    function validate(){
+        var reg = /[A-Za-z]{5,15}/i;
+        var reg3 = /.+@.+\..+/i;
+        if(document.forms["myForm"]["name"].value == "")
+        {
+            alert("Name must be filled out");
+            document.forms["myForm"]["name"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if(document.forms["myForm"]["address"].value == "")
+        {
+            alert("Address must be filled out");
+            document.forms["myForm"]["address"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if(document.forms["myForm"]["email"].value == "")
+        {
+            alert("E-mail must be filled out");
+            document.forms["myForm"]["email"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if(document.forms["myForm"]["fruit-no"].value == "")
+        {
+            alert("Please select how many fruits do you eat per day");
+            document.getElementById("fpd").style.textColor = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if(reg.test(document.forms["myForm"]["name"].value) != 1){
+            alert("Name can only be 5 - 15 alphabetical characters");
+            document.forms["myForm"]["name"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if((document.forms["myForm"]["address"].value).length < 5 || (document.forms["myForm"]["address"].value).length > 40){
+            document.forms["myForm"]["name"].style.borderBottom = "2px solid rgb(56, 209, 56)";
+            alert("Address can only be 5 - 40 characters");
+            document.forms["myForm"]["address"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        else if(reg3.test(document.forms["myForm"]["email"].value) != 1){
+            document.forms["myForm"]["address"].style.borderBottom = "2px solid rgb(56, 209, 56)";
+            alert("Please check the format of your e-mail");
+            document.forms["myForm"]["email"].style.borderBottom = "2px solid rgb(255, 51, 0)";
+            return false;
+        }
+        document.forms["myForm"]["email"].style.borderBottom = "2px solid rgb(56, 209, 56)";
+    }
+
+</script>
     <head>
-        <script>
-        </script>
         <title>
             Javascript Activity
         </title>
@@ -125,11 +172,11 @@
     <div class = "form-sample">
             <h2>The World of Fruit</h2>
             <h3>Fruit Survey</h3>
-            <form method="GET">
+            <form name="myForm" onsubmit="return validate()">
                 <p class="f1">Name</p> <input type="text" name="name" placeholder="John Doe"><br>
                 <p class="f1">Address</p> <input type="text" name="address" placeholder="221B Baker Street, London"><br>
-                <p class="f1">E-mail</p> <input type="email" name="email" placeholder="john@doe.com"><br>
-                <p class="f2">How many fruits do you eat per day?</p>
+                <p class="f1">E-mail</p> <input type="text" name="email" placeholder="john@doe.com"><br>
+                <p class="f2" id = "fpd">How many fruits do you eat per day?</p>
                 <input type = "radio" name="fruit-no" value = "0"><p class="f2">0</p> <br>
                 <input type = "radio" class="r1" name="fruit-no" value="1"><p class="f2">1</p> <br>
                 <input type = "radio" class="r1" name="fruit-no" value="2"><p class="f2">2</p> <br>
