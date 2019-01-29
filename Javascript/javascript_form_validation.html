@@ -154,11 +154,14 @@
             return false;
         }
         else if(reg3.test(document.forms["myForm"]["email"].value) != 1){
+            document.forms["myForm"]["name"].style.borderBottom = "2px solid rgb(56, 209, 56)";
             document.forms["myForm"]["address"].style.borderBottom = "2px solid rgb(56, 209, 56)";
             alert("Please check the format of your e-mail");
             document.forms["myForm"]["email"].style.borderBottom = "2px solid rgb(255, 51, 0)";
             return false;
         }
+        document.forms["myForm"]["name"].style.borderBottom = "2px solid rgb(56, 209, 56)";
+        document.forms["myForm"]["address"].style.borderBottom = "2px solid rgb(56, 209, 56)";
         document.forms["myForm"]["email"].style.borderBottom = "2px solid rgb(56, 209, 56)";
     }
 
