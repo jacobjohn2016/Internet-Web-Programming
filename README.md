@@ -23,7 +23,7 @@ Moodle Course page).
 * All Form components should be created as a mandatory field (Should not be left as blank). You can use asterisk symbol in text box and to notify this warning to user.
 * Write Regular Expression Patterns for all form fields with Javascript RegExp objects.
 
-## Assignment 4
+## [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/changeColor.html)
 ### Javascript to control styles
 * [Source](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
 * Create a function called `changeColor()` that will be called when the user presses one of two buttons.
@@ -32,7 +32,7 @@ Moodle Course page).
 * The function will take one parameter, a color.
 * Its function is to change the background color of the current document; for example, bgColor=“yellow”.
 
-## Assignment 5
+## [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/array_and_sayings.html)
 ### Javascript Arrays
 * [Source](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
 * Write a JavaScript program that uses the Array and Math objects. 
