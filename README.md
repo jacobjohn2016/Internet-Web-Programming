@@ -26,8 +26,8 @@ Moodle Course page).
 ## Assignment 4
 ### Javascript to control styles
 * [Source](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
-* Create a function called changeColor() that will be called when the user presses one of two buttons.
-* The first button will contain the text “Press here for a yellow background”. 
+* Create a function called `changeColor()` that will be called when the user presses one of two buttons.
+* The first button will contain the text “Press here for a  yellow background”. 
 * The second button will contain the text “Press here for a light green background”.
 * The function will take one parameter, a color.
 * Its function is to change the background color of the current document; for example, bgColor=“yellow”.

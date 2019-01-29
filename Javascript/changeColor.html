@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-color: white;
+            }
+            button{
+                box-shadow: inset 0px 1px 0px 0px #45D6D6;
+                background-color: #2CBBBB;
+                border: 2px solid #27A0A0;
+                cursor: pointer;
+                color: black;
+                font-weight: bold;
+                font-family: Helvetica;
+                font-size: 14px;
+                padding: 8px 18px 10px 20px;
+                margin-top: 50px;
+                margin-left: 200px;
+                text-decoration: none;
+                text-align: center;
+            }
+            button:hover{
+                    background: linear-gradient(to bottom, #34CACA 5%, #30C9C9 100%);
+                    background-color: #34CACA;
+            }
+        </style>
+        <script>
+            function changeColor(x){
+                document.body.style.backgroundColor = x;
+            }
+        </script>
+        <title>
+            Change Background color
+        </title>
+    </head>
+    <body>
+        <button type="button" onClick="changeColor('yellow');">Press here for a yellow background</button>
+        <button type="button" onClick="changeColor('lightgreen');">Press here for a light green background</button>
+    </body>
+</html>
