@@ -7,6 +7,7 @@ All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institut
 * [Assignment 2](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_HTML_lab2.pdf)
 * [Assignment 3](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_CSS_lab3.pdf)
 * [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_JS_lab4.pdf)
+* [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_PHP_lab1.pdf)
 
 ## [Assignment 1](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/form_validation_basics.html)
 ### HTML Form and Validation
@@ -46,3 +47,8 @@ Moodle Course page).
 * Write a JavaScript program that uses the Array and Math objects. 
 * Create an array of five sayings; for example, “A stitch in time saves 9,” or “Too many cooks spoil the broth.” 
 * Each time the Web page is visited, print a random saying.
+
+## Assignment 6
+[PHP index file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/index.php) [PHP action file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/form.php)
+* [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/VL2018195002845_AST04.pdf)
+* Use PHP to update the fields to MYSQL and display in tabular format.
