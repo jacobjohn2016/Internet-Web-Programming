@@ -19,6 +19,7 @@ All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institut
 ## [Assignment 2](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/form_validation_lab.html)
 ### HTML Form and Validation
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/VL2018195002845_AST02.pdf)
+* [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/HTML-forms/form_validation_lab.html)
 * Entire form should be displayed at the center of the web page.
 * Use Custom Font for displaying page content (Fonts can be downloaded from
 Moodle Course page).
@@ -29,6 +30,7 @@ Moodle Course page).
 ## [Assignment 3](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/javascript_form_validation.html)
 ### HTML Form and Validation using Javascript
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
+* [Demo Working](http://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/javascript_form_validation.html)
 * Design a Form and validate all form components using Client side Javascript.
 * All Form components should be created as a mandatory field (Should not be left as blank). You can use asterisk symbol in text box and to notify this warning to user.
 * Write Regular Expression Patterns for all form fields with Javascript RegExp objects.
@@ -36,6 +38,7 @@ Moodle Course page).
 ## [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/changeColor.html)
 ### Javascript to control styles
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
+* [Demo Working](http://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/changeColor.html)
 * Create a function called `changeColor()` that will be called when the user presses one of two buttons.
 * The first button will contain the text “Press here for a  yellow background”. 
 * The second button will contain the text “Press here for a light green background”.
@@ -45,6 +48,7 @@ Moodle Course page).
 ## [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/array_and_sayings.html)
 ### Javascript Arrays
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
+* [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/array_and_sayings.html)  _Reload page to take effect_
 * Write a JavaScript program that uses the Array and Math objects. 
 * Create an array of five sayings; for example, “A stitch in time saves 9,” or “Too many cooks spoil the broth.” 
 * Each time the Web page is visited, print a random saying.
