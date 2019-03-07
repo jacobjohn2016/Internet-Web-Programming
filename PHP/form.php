@@ -40,7 +40,14 @@
         $address = $_POST['address'];
         $nfruits = $_POST['fruit-no'];
         $fav = $_POST['favorite'];
-        $brochure = $_POST['brochure'];
+        $brochure = $_POST['brochure'];  
+
+        $q = "INSERT INTO FruitData (name, email, address, nfruits, fav, brochure) VALUES('$name','$email','$address','$nfruits','$fav','$brochure')";
+        if ($conn->query($q) === TRUE) {
+            echo "<br>New record created successfully";
+        } else {
+            echo "Error: " . $q . "<br>" . $conn    ->error;
+        }
         
         echo '<br><table border="0" cellspacing="2" cellpadding="2"> 
             <tr> 
@@ -50,14 +57,7 @@
                 <th>Fruit No.</th> 
                 <th>Favorite</th> 
                 <th>Brochure</th>
-            </tr>';    
-
-        $q = "INSERT INTO FruitData (name, email, address, nfruits, fav, brochure) VALUES('$name','$email','$address','$nfruits','$fav','$brochure')";
-        if ($conn->query($q) === TRUE) {
-            echo "<br>New record created successfully";
-        } else {
-            echo "Error: " . $q . "<br>" . $conn    ->error;
-        }
+            </tr>';  
 
         $q = "SELECT * FROM FruitData";
         $result = $conn->query($q); 
