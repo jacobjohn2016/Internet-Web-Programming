@@ -79,6 +79,7 @@
                     <td>'.$brochure.'</td>
                 </tr>';
             }
+            echo '</table>';
         }     
         //closing connection
         mysqli_close($conn);
