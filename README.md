@@ -11,6 +11,10 @@ All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institut
 
 ## [Assignment 1](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/form_validation_basics.html)
 ### HTML Form and Validation
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment1.png" width="750" alt="1">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/VL2018195002845_AST01.pdf)
 * [Demo Working](http://jacobjohn2016.github.io/Internet-Web-Programming/HTML-forms/form_validation_basics.html)
 * Do not use JavaScript or Any other libraries for creating pattern and validation.
@@ -18,6 +22,10 @@ All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institut
 
 ## [Assignment 2](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/form_validation_lab.html)
 ### HTML Form and Validation
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment2.png" width="750" alt="2">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/VL2018195002845_AST02.pdf)
 * [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/HTML-forms/form_validation_lab.html)
 * Entire form should be displayed at the center of the web page.
@@ -29,6 +37,10 @@ Moodle Course page).
 
 ## [Assignment 3](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/javascript_form_validation.html)
 ### HTML Form and Validation using Javascript
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment3.png" width="750" alt="3">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
 * [Demo Working](http://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/javascript_form_validation.html)
 * Design a Form and validate all form components using Client side Javascript.
@@ -37,6 +49,10 @@ Moodle Course page).
 
 ## [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/changeColor.html)
 ### Javascript to control styles
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment4.png" width="750" alt="4">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
 * [Demo Working](http://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/changeColor.html)
 * Create a function called `changeColor()` that will be called when the user presses one of two buttons.
@@ -47,6 +63,13 @@ Moodle Course page).
 
 ## [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/array_and_sayings.html)
 ### Javascript Arrays
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment51.png" width="750" alt="51">
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment52.png" width="750" alt="52">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
 * [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/Javascript/array_and_sayings.html)  _Reload page to take effect_
 * Write a JavaScript program that uses the Array and Math objects. 
@@ -55,5 +78,9 @@ Moodle Course page).
 
 ## Assignment 6
 [PHP index file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/index.php) [PHP action file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/form.php)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment6.png" width="750" alt="6">
+</p>
+
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/VL2018195002845_AST04.pdf)
 * Use PHP to update the fields to MYSQL and display in tabular format.
