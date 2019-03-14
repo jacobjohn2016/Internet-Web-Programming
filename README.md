@@ -84,3 +84,9 @@ Moodle Course page).
 
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/PHP/VL2018195002845_AST04.pdf)
 * Use PHP to update the fields to MYSQL and display in tabular format.
+
+## CAT 1
+* Design the below HTML form and perform necessary JavaScript Validation. 
+* Use PHP to retrieve form details and update to a file. 
+* Display the form details retrieved from the file in tabular format. 
+  
