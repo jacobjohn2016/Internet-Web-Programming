@@ -98,3 +98,6 @@ Moodle Course page).
 
 ## Assignment 7
 [XML file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/TimeTable.xml) [XSL file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/TimeTable.xsl) [CSS file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/tablestyle.css)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment7.png" width="750" alt="8">
+</p>

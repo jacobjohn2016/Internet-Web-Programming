@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="894802f0-a57c-4ada-8ee7-a4aa23c81eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeTable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeTable.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tablestyle.css" afterDir="false" />
-    </list>
+    <list default="true" id="894802f0-a57c-4ada-8ee7-a4aa23c81eba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -139,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552965219791</updated>
-      <workItem from="1552965222538" duration="3952000" />
+      <workItem from="1552965222538" duration="4196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3952000" />
+    <option name="totallyTimeSpent" value="4196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="0" />
