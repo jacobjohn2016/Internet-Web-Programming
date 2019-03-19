@@ -95,3 +95,6 @@ Moodle Course page).
 * Design the below HTML form and perform necessary JavaScript Validation. 
 * Use PHP to retrieve form details and update to a file. 
 * Display the form details retrieved from the file in tabular format. 
+
+## Assignment 7
+[XML file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/TimeTable.xml) [XSL file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/TimeTable.xsl) [CSS file](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/XML/tablestyle.css)
