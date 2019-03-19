@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="TimeTable.xsl"?>
+
+<TimeTable>
+    <Day class="day" id="Monday">
+        <_1></_1>
+        <_2>Internet and Web Programming</_2>
+        <_3>Java Programming</_3>
+        <_4>Artificial Intelligence</_4>
+        <_5>Image Processing</_5>
+    </Day>
+    <Day id="Tuesday">
+        <_1>Artificial Intelligence</_1>
+        <_2>Image Processing</_2>
+        <_3>Virtualization</_3>
+        <_4></_4>
+        <_5></_5>
+    </Day>
+    <Day id="Wednesday">
+        <_1></_1>
+        <_2></_2>
+        <_3>Internet and Web Programming</_3>
+        <_4>Java Programming</_4>
+        <_5></_5>
+    </Day>
+    <Day id="Thursday">
+        <_1>Java Programming</_1>
+        <_2>Artificial Intelligence</_2>
+        <_3>Image Processing</_3>
+        <_4>Virtualization</_4>
+        <_5></_5>
+    </Day>
+    <Day id="Friday">
+        <_1>Virtualization</_1>
+        <_2></_2>
+        <_3></_3>
+        <_4></_4>
+        <_5></_5>
+    </Day>
+</TimeTable>
