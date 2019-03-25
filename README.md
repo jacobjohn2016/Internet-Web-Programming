@@ -8,6 +8,7 @@ All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institut
 * [Assignment 3](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_CSS_lab3.pdf)
 * [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_JS_lab4.pdf)
 * [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_PHP_lab1.pdf)
+* [Digital Assignment 1](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Spoonacular-Web-API/16BCE2205-DA1.pdf)
 
 ## [Assignment 1](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/HTML-forms/form_validation_basics.html)
 ### HTML Form and Validation
