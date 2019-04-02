@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="practice.xsl"?>
+
+<TimeTable>
+    <Day id="Monday">
+        <_1>Web Technology</_1>
+        <_2>Marketing Management</_2>
+        <_3>Software Agents</_3>
+        <_4></_4>
+    </Day>
+    <Day id="Tuesday">
+        <_1>Mobile And Pervasive Computing</_1>
+        <_2>Software Agents</_2>
+        <_3>Marketing Management</_3>
+        <_4>WebTechnology Lab</_4>
+    </Day>
+    <Day id="Wednesday">
+        <_1>Marketing Management</_1>
+        <_2>Cloud Computing</_2>
+        <_3>Web Technology</_3>
+        <_4></_4>
+    </Day>
+    <Day id="Thursday">
+        <_1>Cloud Computing</_1>
+        <_2>Software Agents</_2>
+        <_3>Mobile And Pervasive Computing</_3>
+        <_4></_4>
+    </Day>
+    <Day id="Friday">
+        <_1>Mobile And Pervasive Computing</_1>
+        <_2>Web Technology</_2>
+        <_3>Cloud Computing</_3>
+        <_4></_4>
+    </Day>
+</TimeTable>
