@@ -1,6 +1,6 @@
 # Internet Web Programming
 
-All lab assignmnets of CSE3002: Internet and Web Programming at Vellore Institute of Technology, Vellore.
+All lab assignmnets of **CSE3002: Internet and Web Programming** at **Vellore Institute of Technology, Vellore**.
 
 ### Final Upload (pdf)
 * [Assignment 1](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/16BCE2205_HTML_lab1.pdf)
