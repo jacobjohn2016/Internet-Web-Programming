@@ -110,4 +110,4 @@ Moodle Course page).
 ## Digitial Assignment - Implementing a API
 * [Spoonacular API](https://spoonacular.com/) - `spoonacular` offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 * [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/Spoonacular-Web-API/index.html)
-* Taken from [`pabloweber/API-Testing`](https://github.com/pabloweber/API-Testing)
+* Taken from [pabloweber/API-Testing](https://github.com/pabloweber/API-Testing)
