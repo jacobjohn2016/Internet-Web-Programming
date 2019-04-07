@@ -51,7 +51,7 @@ Moodle Course page).
 ## [Assignment 4](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/changeColor.html)
 ### Javascript to control styles
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment4.png" width="750" alt="4">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment-4.png" width="750" alt="4">
 </p>
 
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
@@ -65,10 +65,10 @@ Moodle Course page).
 ## [Assignment 5](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/array_and_sayings.html)
 ### Javascript Arrays
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment51.png" width="750" alt="51">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment5-1.png" width="750" alt="51">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment52.png" width="750" alt="52">
+    <img src="https://raw.githubusercontent.com/jacobjohn2016/Internet-Web-Programming/master/Screenshots/assignment5-2.png" width="750" alt="52">
 </p>
 
 * [Question](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Javascript/VL2018195002845_AST03.pdf)
