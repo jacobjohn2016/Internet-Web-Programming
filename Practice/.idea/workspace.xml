@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f38f9be2-4aee-4be2-a220-0c8f1c3a2b58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/demo_fileserver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/demo_http_url.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/demofile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/events_demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/readStream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/summer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NodeJS-Practice/winter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f38f9be2-4aee-4be2-a220-0c8f1c3a2b58" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,16 +142,17 @@
       <workItem from="1554162657902" duration="5000" />
       <workItem from="1554163181692" duration="26000" />
       <workItem from="1554163222111" duration="1486000" />
+      <workItem from="1554452758220" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1517000" />
+    <option name="totallyTimeSpent" value="1591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,9 +175,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NodeJS-Practice/demo_http_url..js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeJS-Practice/demo_http_url..js" />
     <entry file="file://$PROJECT_DIR$/NodeJS-Practice/summer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
