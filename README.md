@@ -111,3 +111,7 @@ Moodle Course page).
 * [Spoonacular API](https://spoonacular.com/) - `spoonacular` offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications.
 * [Demo Working](https://jacobjohn2016.github.io/Internet-Web-Programming/Spoonacular-Web-API/index.html)
 * Taken from [pabloweber/API-Testing](https://github.com/pabloweber/API-Testing)
+
+## Additional Learning
+* [Answers](https://jacobjohn2016.github.io/fullstack-course5/)
+* [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home/welcome)
