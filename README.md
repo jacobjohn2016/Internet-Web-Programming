@@ -114,5 +114,5 @@ Moodle Course page).
 
 ## Additional Learning
 * [Answers](https://jacobjohn2016.github.io/fullstack-course5/)
-* [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home/welcome)
+* [Single Page Web Applications with AngularJS](https://jacobjohn2016.github.io/single-page-webapps-angularjs/)
 * [Certificate](https://github.com/jacobjohn2016/Internet-Web-Programming/blob/master/Final-Uploads/Coursera%205GBZQQ6GNJ5Z.pdf)
