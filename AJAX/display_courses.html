@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    table,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 5px;
+    }
+  </style>
+
+  <body>
+
+    <h1>The JSON Object</h1>
+    <button type="button" onclick="loadDoc()">Load doc</button></br>
+    <div id="txtHint">Data will load here...</div>
+
+    <script>
+      function loadDoc() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+          if (this.readyState == 4 && this.status == 200) {
+            var obj = JSON.parse(this.responseText);
+            var out = "";
+            for(var i = 0; i < obj.courses.length; i++){
+              out += obj.courses[i].code + "</br>";
+              out += obj.courses[i].title + "</br>";
+              out += obj.courses[i].owner + "</br></br>";
+            }
+            document.getElementById("txtHint").innerHTML = out;
+          }
+        };
+        xhttp.open("GET", "course.txt", true);
+        xhttp.send();
+      }
+    </script>
+
+  </body>
+
+</html>

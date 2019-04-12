@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "code": "CSE1001",
+            "title": "Python",
+            "owner": "SCOPE"
+        },
+        {
+            "code": "EEE1001",
+            "title": "Electrical",
+            "owner": "SELECT"
+        },
+        {
+            "code": "PHY1001",
+            "title": "Engg. Physics",
+            "owner": "SAS"
+        }
+    ]
+}
