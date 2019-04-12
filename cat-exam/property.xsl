@@ -1,8 +1,8 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
-        	<link rel="stylesheet" type="text/css" href="tablestyle.css"></link>
+            <link rel="stylesheet" type="text/css" href="stylesheet.css"></link>
             <body>
                 <h2>Property and Values</h2>
                 <table>
