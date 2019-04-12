@@ -2,7 +2,32 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
-            <link rel="stylesheet" type="text/css" href="stylesheet.css"></link>
+            <head>
+                <style>
+                    body{
+                        font-family: 'Open Sans Condensed', arial, sans;
+                    }
+
+                    table {
+                        border-collapse: collapse;
+                        width: 100%;
+                    }
+                    td.day{
+                        font-weight: bold;
+                    }
+                    th, td {
+                        text-align: left;
+                        padding: 8px;
+                    }
+                    tr:nth-child(even){
+                        background-color: #f2f2f2
+                    }
+                    th {
+                        background-color: #4CAF50;
+                        color: white;
+                    }
+                </style>
+            </head>
             <body>
                 <h2>Property and Values</h2>
                 <table>
