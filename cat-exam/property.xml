@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="property.xsl" ?>
+<Property>
+    <Prop id="1">
+        <Name>VITV</Name>
+        <Value>25001</Value>
+        <owner-id>1</owner-id>
+    </Prop>
+    <Prop id="2">
+        <Name>VITC</Name>
+        <Value>2500002</Value>
+        <owner-id>2</owner-id>
+    </Prop>
+    <Prop id="3">
+        <Name>VITAP</Name>
+        <Value>2500003</Value>
+        <owner-id>4</owner-id>
+    </Prop>
+</Property>
